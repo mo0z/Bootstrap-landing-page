@@ -1,7 +1,7 @@
-#Blog Landing page
-###**Getting started**
-###Technologies Used
-####HTML5, CSS3, Bootstrap 3.3, PHP, JavaScript ES5, jQuery, Ekko-lightbox Api
+# Blog Landing page
+### **Getting started**
+### Technologies Used
+#### HTML5, CSS3, Bootstrap 3.3, PHP, JavaScript ES5, jQuery, Ekko-lightbox Api
  - Run :  `git clone https://github.com/getwebem/getwebem-website.git`
  - Run :  `cd getwebem-website`
  - Run :  `Brackets .`
