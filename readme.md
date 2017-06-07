@@ -1,9 +1,8 @@
-# Blog Landing page
-### **Getting started**
+# Freelance Website
 ### Technologies Used
-#### HTML5, CSS3, Bootstrap 3.3, PHP, JavaScript ES5, jQuery, Ekko-lightbox Api
- - Run :  `git clone https://github.com/getwebem/getwebem-website.git`
- - Run :  `cd getwebem-website`
+#### HTML5, CSS3, Bootstrap 3.3, PHP 5.3, JavaScript ES5, jQuery, Ekko-lightbox Api
+ - Run :  `git clone https://github.com/getwebem/getwebem.git`
+ - Run :  `cd getwebem`
  - Run :  `Brackets .`
  - Open:  `Index.html`
  - Open:  `Live Preview`  
